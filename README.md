@@ -1,2 +1,7 @@
 # E-Commerce_Case_Study
-Case study as part of Upgrad program
+This case study is part of Upgrad Curriculam
+
+Prepared by
+- Harshal Naik
+- Mehul Mehtani
+- Kamesvarer S
