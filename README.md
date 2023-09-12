@@ -2,11 +2,11 @@
 This case study is part of Upgrad Curriculam
 
 Prepared by
-- Harshal Naik
-- Mehul Mehtani
-- Kamesvarer S
+-- Harshal Naik
+-- Mehul Mehtani
+-- Kamesvarer S
 
-Introduction:
+
 - This case study based on the e-commerce/retail domain
 - We've Recognised customers’ payment behaviour based on their past payment patterns (customer segmentation).
 - Using historical information, we've predict the likelihood of delayed payment against open invoices from its customers.
