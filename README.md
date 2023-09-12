@@ -1,4 +1,4 @@
-# E-Commerce_Case_Study
+#  E-Commerce & Retail B2B Case Study
 This case study is part of Upgrad Curriculam
 
 Prepared by
