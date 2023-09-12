@@ -12,7 +12,7 @@ This case study based on the e-commerce/retail domain
 - Clustered customers in 3 categories using K-Mean technique
     - Prime customers
     - General Customers
-    - Probelmatic customers
+    - Problematic customers
 - Built Logistic regression model 
 - Built Random Forest model
 - Derived Business insights and futher action points
