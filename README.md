@@ -1,6 +1,4 @@
 #  E-Commerce & Retail B2B Case Study
-This case study is part of Upgrad Curriculam
-
 Prepared by
 - Harshal Naik
 - Mehul Mehtani
@@ -13,3 +11,6 @@ This case study based on the e-commerce/retail domain
 - Built Logistic regression model, Random Forest model, K-mean Clustering
 
 Using the results from this  case study ,one can prioritise the work of following up with specific customers beforehand to get the payments on time.
+
+
+-- This case study is part of Upgrad Curriculam
